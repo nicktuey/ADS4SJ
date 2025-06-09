@@ -9,5 +9,7 @@ Pandas
 Numpy
 MatplotLib
 Seaborn
-statsmodel# ADS4SJ
+scipy stats
+statsmodel
+#ADS4SJ
 
