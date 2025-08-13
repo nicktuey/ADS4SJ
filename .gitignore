@@ -1,0 +1,11 @@
+new_data/
+tidy data/
+call_data_from_CAD.csv
+clean_data_practice.ipynb
+clean_data.csv
+eugene_zipcodes_wgs84.geojson
+eugene_zipcodes.geojson
+explore.ipynb
+MCSLC_clean.ipynb
+oregon_zipcodes.geojson
+pca_example.ipynb
